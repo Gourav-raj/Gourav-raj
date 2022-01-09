@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Gourav !
-<hr/>
+<div align="center">
+  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Gourav</h1>
+</div>
+
 
 - 🔭 I’m currently final yr student at NIT Bhopal CSE'22.
 - 🌱 I’m currently working on a Reactjs + Spring boot application.
@@ -30,11 +33,11 @@
       alt="css3"/>
   </a>
   <a href="https://docs.python.org/3/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-blockchain-green?style=for-the-badge&logo=&logoColor=black"
+    <img src="https://img.shields.io/badge/-blockchain-orange?style=for-the-badge&logo=bitcoin&logoColor=black"
       alt="python"/>
   </a>
    <a href="https://docs.python.org/3/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Solidity-green?style=for-the-badge&logo=&logoColor=black"
+    <img src="https://img.shields.io/badge/-Solidity-green?style=for-the-badge&logo=solidity&logoColor=black"
       alt="python"/>
   </a>
 </p>
@@ -60,8 +63,8 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=express&logoColor=white"
+  <a href="https://springboot.com" target="_blank">
+    <img src="https://img.shields.io/badge/-SpringBoot-red?style=for-the-badge&logo=springboot&logoColor=black"
       alt="express" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
@@ -126,10 +129,22 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a> <a href="https://vim.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vim-green?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vim"/> 
+    <img src="https://img.shields.io/badge/-Vim-red?style=for-the-badge&logo=vim&logoColor=black" alt="vim"/> 
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
 </p>
  
+ <div align="center">
+  <h2>Github stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-raj&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/Gourav-raj" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-raj&theme=material-palenight" alt="https://github.com/Gourav-raj" />
+</div>
+<hr>
+
+<div align="center">
+  <img  src="resources/img/github-contribution-grid-snake.svg"
+    alt="Gourav-raj" />
+</div>
